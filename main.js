@@ -1,0 +1,10 @@
+var myAge = ["21", "22", "23", "24", "25"];
+console.log(myAge[2]);
+var myEducation = ["matric", "intermediate", "graduation"];
+console.log(myEducation);
+var myHobbies = ["cooking", "gardening", "reading"];
+console.log(myHobbies[2]);
+var carsName = ["civic", "corolla", "revo", "ferrari"];
+console.log(carsName[1]);
+var myFavBooks = ["haalim", "jkp", "mushaf", "namal", "main anmol"];
+console.log(myFavBooks);
